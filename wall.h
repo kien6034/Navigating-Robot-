@@ -5,7 +5,7 @@
 #include "stdlib.h"
 
 #include "SDL2/SDL.h"
-#include "SDL2_gfxPrimitives.h"
+#include "SDL2_gfx-1.0.1/SDL2_gfxPrimitives.h"
 
 #include "structures.h"
 
